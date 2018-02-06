@@ -1,7 +1,7 @@
 # IMO Ranking Contest - EDA
 
 ### Distribution of Mean Rank(target)
-![Mean Rank Distribution](https://github.com/yasarc4/IMO_Ranking/blob/master/Plots/MeanRank%20Distribution.png)
+![Mean Rank Distribution]({{site.url}}{{site.baseurl}}/Plots/MeanRank%20Distribution.png)
 
 ## Results before transformation
 #### Relation between Raw scores and Mean Rank(Target)
