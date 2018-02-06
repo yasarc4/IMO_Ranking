@@ -4,7 +4,7 @@
 ![Mean Rank Distribution](https://github.com/yasarc4/IMO_Ranking/blob/master/Plots/MeanRank%20Distribution.png)
 
 ## Results before transformation
-####Relation between Raw scores and Mean Rank(Target)
+#### Relation between Raw scores and Mean Rank(Target)
  * Correlation above 0.6
  ![Correlations above 0.6 on Raw Scores](https://github.com/yasarc4/IMO_Ranking/blob/master/Plots/above_60_direct.png)
  * Correlation above 0.55
