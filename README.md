@@ -1,5 +1,7 @@
 # IMO Ranking Contest - EDA
 
+The below figures compares the features before and after transformation. Before transformation, many inter-correlated features were found to be important variables. When transformed based on EDA, the results were better and the dependent variables were only mildly correlated.
+
 ### Distribution of Mean Rank(target)
 ![Mean Rank Distribution](https://raw.githubusercontent.com/yasarc4/IMO_Ranking/master/Plots/MeanRank%20Distribution.png)
 
