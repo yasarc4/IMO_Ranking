@@ -39,7 +39,7 @@
  ![Distribution of ranks for top 5 countries](https://raw.githubusercontent.com/yasarc4/IMO_Ranking/master/Plots/Top_Countries_Ranking.png)
  ![Ranks of Top 5 Countries GIF](https://raw.githubusercontent.com/yasarc4/IMO_Ranking/master/Plots/Top_Features.gif)
  * Top 20 features of the next 10 countries against mean rank
- ![Distribution of ranks for nect 10 countries](https://raw.githubusercontent.com/yasarc4/IMO_Ranking/master/Plots/Top_Countries_ranking2.png)
+ ![Distribution of ranks for next 10 countries](https://raw.githubusercontent.com/yasarc4/IMO_Ranking/master/Plots/Top_countries_ranking2.png)
  ![Ranks of next 10 Countries GIF](https://raw.githubusercontent.com/yasarc4/IMO_Ranking/master/Plots/Top_Features2.gif)
 
  > All the above EDA done in 3 hrs for a hackathon.
